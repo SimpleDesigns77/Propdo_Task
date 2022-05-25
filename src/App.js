@@ -1,6 +1,5 @@
 import './App.scss';
 import { Route, Routes, Link } from 'react-router-dom';
-import Layout from './Components/Layout';
 import RealEstate from './Components/RealEstate/RealEstate'
 import MyMap from './Components/MyMap/MyMap.js'
 
