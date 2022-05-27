@@ -4,6 +4,7 @@ import '@mapbox/mapbox-gl-geocoder/dist/mapbox-gl-geocoder.css'
 import { useControl } from 'react-map-gl';
 import DataContext from '../../Context/LocationContext'
 
+
 const REACT_APP_MAP_TOKEN =
     'pk.eyJ1Ijoiam9obmF0aGFubWVlcmYxMTIyIiwiYSI6ImNsM2s1bDgxbTAweXozaW56NDhvbTM3ZXAifQ.aPxOdLuRHKeak6rRc04EHA'
 
